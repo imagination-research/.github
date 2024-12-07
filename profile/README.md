@@ -8,3 +8,5 @@ And we're continuously trying out and evolving our perspectives on what problems
 If you find our style of research and concrete ideas interesting, email us to discuss interesting thoughts or collaborate. We're curious about many problems and love ideas from many fields!
 * Xuefei Ning (foxdoraame@gmail.com)
 * Zinan Lin (zinanlin@microsoft.com)
+
+We also open a new Youtube Channel at https://www.youtube.com/@Imagination-Research-o3i, welcome to subscribe! 
